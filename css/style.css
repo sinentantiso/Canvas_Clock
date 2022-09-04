@@ -1,0 +1,11 @@
+canvas {
+    border: 1px solid antiquewhite;
+    align-items: center;
+    align-content: center;
+    background-color: #333;
+    margin: 10px 50px 0 400px;
+}
+
+footer {
+    margin: 0px 50px 0 400px;
+}
